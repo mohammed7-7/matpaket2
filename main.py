@@ -4,7 +4,7 @@ import math
 
 step = 1.8
 centers = numpy.arange(-5.1, 5.71, step)
-mi = [1, 2, 19, 60, 17, 0, 1]
+mi = [6, 13, 14, 23, 19, 14, 11]
 V = sum(mi)
 pi = []
 for i in mi:
